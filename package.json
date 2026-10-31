@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-pa",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Pennsylvania Open Data (data.pa.gov) Socrata MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-pa",
     "gatewaySlug": "data-pa",
-    "sourceHash": "v1-ed0df69e0c5cb55f493079541a98ca7dc614d70f71a922613601d54fd2de0458",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-8f1bd95af03b3326404779a1e82337a9718a8a530ce42640a05b8c4c61fcbed7",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
